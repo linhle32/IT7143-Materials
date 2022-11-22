@@ -18,5 +18,5 @@ The modules in the course are as follows.
 |10	| Microsoft Azure Machine Learning |
 |11	| Azure Machine Learning – Image Analytics |
 |12	| Azure Machine Learning – Text Analytics |
-
+|13 | Azure Machine Learning – AutoML |
  
