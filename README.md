@@ -7,5 +7,6 @@ The modules in the course are as follows.
 |---|---|
 |01 | Introduction to Data Analytics Concepts |
 |02 | Introduction to Google Colab	|
+|03 | Preliminary analysis |
 
  
