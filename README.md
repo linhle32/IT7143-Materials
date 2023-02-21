@@ -10,5 +10,6 @@ The modules in the course are as follows.
 |03 | Preliminary analysis |
 |04 | Data processing	|
 |05 | Predictive analysis	|
+|06 | AWS SageMaker – environment set up|	
 
  
