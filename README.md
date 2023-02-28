@@ -11,5 +11,7 @@ The modules in the course are as follows.
 |04 | Data processing	|
 |05 | Predictive analysis	|
 |06 | AWS SageMaker – environment set up|	
+|07 | AWS SageMaker – modeling in AWS SageMaker	|
+|08	| AWS SageMaker – anomaly Detection|	 	
 
  
