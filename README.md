@@ -13,5 +13,6 @@ The modules in the course are as follows.
 |06 | AWS SageMaker – environment set up|	
 |07 | AWS SageMaker – modeling in AWS SageMaker	|
 |08	| AWS SageMaker – anomaly Detection|	 	
+|09	| AWS SageMaker – forecasting 	|
 
  
