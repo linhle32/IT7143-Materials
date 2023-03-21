@@ -15,5 +15,6 @@ The modules in the course are as follows.
 |08	| AWS SageMaker – anomaly Detection|	 	
 |09	| AWS SageMaker – forecasting 	|
 |10	| Azure Machine Learning - set up environment|
+|11	| Azure Machine Learning – image analytics |
 
  
