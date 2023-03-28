@@ -16,5 +16,6 @@ The modules in the course are as follows.
 |09	| AWS SageMaker – forecasting 	|
 |10	| Azure Machine Learning - set up environment|
 |11	| Azure Machine Learning – image analytics |
+|12	| Azure Machine Learning – text analytics |
 
  
